@@ -1,0 +1,8 @@
+C:\Users\admin\MyWebAPI\obj\Release\net9.0\MyWebAPI.csproj.AssemblyReference.cache
+C:\Users\admin\MyWebAPI\obj\Release\net9.0\MyWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\MyWebAPI\obj\Release\net9.0\MyWebAPI.AssemblyInfoInputs.cache
+C:\Users\admin\MyWebAPI\obj\Release\net9.0\MyWebAPI.AssemblyInfo.cs
+C:\Users\admin\MyWebAPI\obj\Release\net9.0\MyWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\admin\MyWebAPI\obj\Release\net9.0\MyWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\MyWebAPI\obj\Release\net9.0\MyWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\MyWebAPI\obj\Release\net9.0\MyWebAPI.sourcelink.json
